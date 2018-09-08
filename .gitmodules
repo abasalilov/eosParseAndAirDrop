@@ -1,0 +1,3 @@
+[submodule "eosAcctParser"]
+	path = eosAcctParser
+	url = https://github.com/abasalilov/eosAcctParser.git
